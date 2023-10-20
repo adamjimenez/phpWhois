@@ -36,6 +36,7 @@ return array(
     'net'      => 'gtld',
     'su'       => 'ru',
     'tv'       => 'gtld',
+    'uk'       => 'Uk',
     'za.org'   => 'zanet',
     'za.net'   => 'zanet',
     // Punicode
