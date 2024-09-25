@@ -263,6 +263,7 @@ return array(
     'gop'                    => 'whois-cl01.mm-registry.com',
     'gov'                    => 'whois.dotgov.gov',
     'gr'                     => '',
+    'group'                  => 'whois.donuts.co',
     'graphics'               => 'whois.donuts.co',
     'gratis'                 => 'whois.donuts.co',
     'green'                  => 'whois.afilias.net',
