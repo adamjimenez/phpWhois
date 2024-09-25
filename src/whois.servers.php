@@ -262,6 +262,7 @@ return array(
     'gratis'                 => 'whois.donuts.co',
     'green'                  => 'whois.afilias.net',
     'gripe'                  => 'whois.donuts.co',
+    'group'                  => 'whois.donuts.co',
     'gs'                     => 'whois.nic.gs',
     'gt'                     => 'http://www.gt/Inscripcion/whois.php?domain={domain}.gt',
     'guide'                  => 'whois.donuts.co',
